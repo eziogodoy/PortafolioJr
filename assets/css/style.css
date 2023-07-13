@@ -34,3 +34,69 @@ nav ul{
   gap:1%;
   font-size: 2rem;
 }
+
+.row{
+  display:flex;
+  justify-content: space-between;
+  gap:2%;
+  margin-bottom: 5%;
+  padding-top: 5%;
+}
+
+.col-1{
+  width: 25%;
+  text-align: right;
+  border-right: 5px solid rgb(20, 20, 95);
+}
+
+.col-2{
+  width: 75%;
+}
+
+#aboutme-content{
+  display: flex;
+}
+
+#aboutme-content img{
+  width:30%;
+}
+
+#aboume-content summary{
+  width:50%;
+  word-wrap:wrap;
+  
+}
+
+#work-section{
+  display: flex;
+  flex-wrap: wrap;
+  gap:5%;
+}
+
+.projects{
+  width:40%;
+  max-width: 45;;
+  padding: 0%;
+  margin: 1%;
+  position: relative;
+  border: 5px solid blue;
+}
+
+
+.anchor img{
+  width:100%;
+}
+
+
+#firstbox {
+  width: 80%;
+}
+
+.anchor summary {
+  position: absolute;
+  bottom: 10px;
+  background-color: blue;
+  color: aliceblue;
+  padding: 5%;
+
+}
