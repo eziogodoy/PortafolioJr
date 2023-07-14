@@ -4,10 +4,9 @@ If you have problems, questions, ideas or suggestions, please contact me by post
 All contributors to the project are listed in the THANKS document.
 
 WEBSITE
-Visit the curl website for the latest news and downloads:
-https://curl.se/
+https://eziogodoy.github.io/PortafolioJr/
 
 GIT
 To download the very latest source off the GIT server do this:
 git clone https://github.com/eziogodoy/PortafolioJr.git
-(you'll get a directory named curl created, filled with the source code)
+
